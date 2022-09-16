@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://brunosouzafarias.github.io/project-nlw/)
+[🔗 Clique aqui para acessar](https://brunosouzafarias.github.io/nlw/)
 
 
 ## 🛠 Tecnologias
@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 💛 Contato
 
-brunodesouzafarias@yahoo.com.br
+(brunodesouzafarias@yahoo.com.br)
